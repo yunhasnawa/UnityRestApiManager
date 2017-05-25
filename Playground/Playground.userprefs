@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.OSXPlayer" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/RestApiManager.cs">
+    <Files>
+      <File FileName="Assets/CanvasMain.cs" Line="95" Column="21" />
+      <File FileName="Assets/RestApiManager.cs" Line="98" Column="71" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
